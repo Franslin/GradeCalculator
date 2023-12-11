@@ -9,7 +9,7 @@ namespace Program
             Console.WriteLine("Mata in elevens poäng");
             int score = Convert.ToInt32(Console.ReadLine());
             
-            
+            //Test to pull
 
         }
     }
