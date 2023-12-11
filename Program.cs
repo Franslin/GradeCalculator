@@ -10,6 +10,7 @@ namespace Program
             int score = Convert.ToInt32(Console.ReadLine());
             
             //Test to pull
+            //Test to push!
 
         }
     }
